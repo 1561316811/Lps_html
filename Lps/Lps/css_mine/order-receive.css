@@ -1,0 +1,19 @@
+.order-receive{
+
+    font-size: 8em;
+    overflow: auto;
+
+    width: 100%;
+    position: absolute;
+    top: 0px;
+
+}
+form{
+    height: 100%;
+    margin-bottom: 50%;
+}
+
+table{
+    font-size: 1.75em;
+}
+

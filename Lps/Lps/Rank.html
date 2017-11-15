@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no">
+    <title>排名情况</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css_iconfont/iconfont.css">
+
+    <link rel="stylesheet" href="css_mine/main-layout.css">
+    <link rel="stylesheet" href="css_mine/footer.css">
+    <link rel="stylesheet" href="css_mine/rank.css">
+
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <script>
+
+        window.onload = function() {
+            $( "#iframe-footer" ).contents().find( "#rank" ).css( "color", "yellow" );
+            $("#iframe-footer").contents().find("#order").click(function () {
+
+                window.location.href = $(this).attr('href');
+            });
+
+            $("#iframe-footer").contents().find("#mine").click(function () {
+
+                window.location.href = $(this).attr('href');
+            });
+
+            $("#iframe-footer").contents().find("#rank").click(function () {
+
+                window.location.href = $(this).attr('href');
+            });
+        };
+
+    </script>
+
+</head>
+<body>
+<div class="main-layout col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+
+    <div class="msg-table">
+
+        <div class="header">
+            <h2>工作排名表</h2>
+        </div>
+    <table class="t-font-size table table-striped">
+
+        <thead>
+
+        <tr class="success">
+            <th>序号</th>
+            <th>牌号</th>
+            <th>点钟</th>
+            <th>排钟</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>001</td>
+            <td>Rahan</td>
+            <td>Reddy</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>002</td>
+            <td>Smita</td>
+            <td>Pallod</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>003</td>
+            <td>Rain</td>
+            <td>Sen</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>001</td>
+            <td>Rahan</td>
+            <td>Reddy</td>
+            <td>A+</td>
+        </tr>
+        <tr>
+            <td>002</td>
+            <td>Smita</td>
+            <td>Pallod</td>
+            <td>A</td>
+        </tr>
+        </tbody>
+    </table>
+    </div>
+    <iframe id="iframe-footer" class="iframe-footer" src="Footer.html" frameborder="0">
+
+    </iframe>
+</div>
+
+</body>
+</html>

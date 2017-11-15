@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44a1a8ce-e4fb-470b-a959-16b0b25fe4d9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>width</find>
+      <find>height</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyselfPage/css/layout.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/css/mainlayout.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/css/main-layout.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/index.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/center.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/main-layout.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/Center.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/footer.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/rank.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/Footer.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/order.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/Order.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/Rank.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/header.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/OrderReceive.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/order-receive.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/OrderService.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/order-pay.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/css_mine/order-finish.css" />
+        <option value="$PROJECT_DIR$/MyselfPage/OrderFinish.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/OrderPay.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/MyData.html" />
+        <option value="$PROJECT_DIR$/MyselfPage/Mine.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="74" />
+    <option name="y" value="1" />
+    <option name="width" value="1802" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SelfPage" type="cbb8eebc:String" user="SelfPage" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SelfPage" type="cbb8eebc:String" user="SelfPage" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="css_iconfont" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="css_mine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="WebClassTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebClassTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MyselfPage" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery-3.2.1.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage" />
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage\css_mine" />
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage\css_iconfont" />
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage\images" />
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage\css_mine" />
+      <recent name="E:\WebStromProject\WebClassTest\MyselfPage\html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Order.html">
+    <configuration name="Order.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebClassTest/MyselfPage/Order.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebClassTest/MyselfPage/html/index.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Order.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Order.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44a1a8ce-e4fb-470b-a959-16b0b25fe4d9" name="Default" comment="" />
+      <created>1508210411432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508210411432</updated>
+      <workItem from="1508210412757" duration="2077000" />
+      <workItem from="1508226004078" duration="12608000" />
+      <workItem from="1508487907909" duration="19440000" />
+      <workItem from="1508563228528" duration="34205000" />
+      <workItem from="1509278012014" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68362000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="74" y="1" width="1802" height="1046" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15695067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Mine.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/footer.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/center.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6399">
+          <caret line="237" column="16" lean-forward="false" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/main-layout.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Footer.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Mine.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/main-layout.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/html/index.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/html/index.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/js/jquery-3.2.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/js/jquery-3.2.1.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6399">
+          <caret line="237" column="16" lean-forward="false" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_iconfont/demo_fontclass.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/center.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/footer.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Footer.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/rank.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Order.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Rank.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_iconfont/demo.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/order.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/main-layout.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/header.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/order-receive.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/order-pay.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/css_mine/order-finish.css" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/OrderService.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/OrderReceive.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/OrderFinish.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/OrderPay.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/Mine.html" />
+    <entry file="file://$PROJECT_DIR$/MyselfPage/MyData.html" />
+  </component>
+</project>

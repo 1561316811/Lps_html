@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no">
+    <title>订单</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css_iconfont/iconfont.css">
+
+    <link rel="stylesheet" href="css_mine/main-layout.css">
+    <link rel="stylesheet" href="css_mine/footer.css">
+    <link rel="stylesheet" href="css_mine/order.css">
+
+
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+<div class="main-layout col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+
+    <div class="order">
+
+        <div class="header">
+            <h2>订单详情</h2>
+        </div>
+
+        <ul class="nav nav-tabs" id="myTab">
+            <li class="active"><a href="#receive"><span class="iconfont">&#xe763;</span><span class="sp-text">待接收</span></a>
+            </li>
+            <li><a href="#servicing"><span class="iconfont">&#xe61a;</span><span class="sp-text">服务中</span></a></li>
+            <li><a href="#pay"><span class="iconfont">&#xe607;</span><span class="sp-text">待支付</span></a></li>
+            <li><a href="#finish"><span class="iconfont">&#xe614;</span><span class="sp-text">已完成</span></a></li>
+        </ul>
+
+        <div class="tab-content">
+            <div class="tab-pane active " id="receive">
+                <div class="receive">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">11房</h4>
+                            <h4 class="category">洗脚</h4>
+                            <p class="list-group-item-text time">2017-10-10&nbsp;10:10</p>
+                        </a>
+                    </div>
+
+                    <div class="list-group">
+                        <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">11房</h4>
+                            <h4 class="category">洗脚</h4>
+                            <p class="list-group-item-text time">2017-10-10&nbsp;10:10</p>
+                        </a>
+                    </div>
+
+                    <div class="list-group">
+                        <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">11房</h4>
+                            <h4 class="category">洗脚</h4>
+                            <p class="list-group-item-text time">2017-10-10&nbsp;10:10</p>
+                        </a>
+                    </div>
+
+
+                </div>
+            </div>
+            <!--servicing start-->
+            <div class="tab-pane" id="servicing">
+                <div class="servicing">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">11房</h4>
+                            <h4 class="category">洗脚</h4>
+                            <p class="list-group-item-text time">2017-10-10&nbsp;10:10</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!--servicing end-->
+
+            <div class="tab-pane" id="pay">
+                <div class="pay">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">11房
+                                <span class="money text-warning">￥100</span>
+                            </h4>
+                            <h4 class="category">洗脚</h4>
+                            <p class="list-group-item-text time">2017-10-10&nbsp;10:10</p>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="tab-pane" id="finish">
+
+                <div class="pay">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">11房
+                                <span class="money text-success">+￥100</span>
+                            </h4>
+                            <h4 class="category">洗脚</h4>
+                            <p class="list-group-item-text time">2017-10-10&nbsp;10:10</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <iframe id="iframe-footer" class="iframe-footer" src="Footer.html" frameborder="0">
+
+    </iframe>
+</div>
+
+</body>
+<script>
+
+    window.onload = function () {
+        $("#iframe-footer").contents().find("#order").css("color", "yellow");
+        $("#iframe-footer").contents().find("#order").click(function () {
+
+            window.location.href = $(this).attr('href');
+        });
+
+        $("#iframe-footer").contents().find("#mine").click(function () {
+
+            window.location.href = $(this).attr('href');
+        });
+
+        $("#iframe-footer").contents().find("#rank").click(function () {
+
+            window.location.href = $(this).attr('href');
+        });
+
+    };
+
+    $(function () {
+
+        $('#myTab a').click(function (e) {
+            e.preventDefault();//阻止a链接的跳转行为
+            $(this).tab('show');//显示当前选中的链接及关联的content
+        })
+    })
+</script>
+
+</html>

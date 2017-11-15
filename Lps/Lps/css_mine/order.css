@@ -1,0 +1,106 @@
+.order{
+
+    font-size: 8em;
+    overflow: auto;
+
+    width: 100%;
+    position: absolute;
+    bottom: 13%;
+    top: 0px;
+
+
+}
+
+a span.iconfont{
+    display: block;
+    text-align: center;
+    font-size: 2em;
+}
+
+a span.sp-text{
+    margin-top: -8px;
+    text-align: center;
+    display: block;
+    font-size: 0.8em;
+}
+
+ul li{
+    width: 25%;
+}
+
+.header > h2{
+    font-family: 华文行楷;
+    font-size: 1em;
+    margin: 0;
+    padding: 10px 0px;
+    color: white;
+    background: #67ae19;
+    text-align: center;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+
+    padding: 7px 5px;
+    border: 0px;
+    color: #fff;
+    cursor: default;
+    background-color: #67ae19;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.receive{
+
+    width: 100%;
+
+}
+
+.list-group{
+    border-bottom: solid 1px rgba(0, 0, 0, 0.42);
+    border-bottom-width: thin;
+    padding-bottom: 5px;
+    margin: 0 5px;
+
+}
+
+ .list-group .list-group-item{
+    width: 100%;
+}
+
+.list-group .list-group-item h4{
+    margin-bottom: 13px;
+}
+
+.category{
+    margin: 0;
+    position: absolute;
+    right: 10px;
+}
+
+.time{
+    margin-top: 10px;
+    font-size: 2em;
+    font-style: italic;
+    color: #0f0f0f !important;
+}
+
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+    z-index: 2;
+    color: #000;
+    background-color: white;
+
+    border-color:transparent;
+}
+
+
+.pay .money{
+
+    font-size: xx-large;
+    position: absolute;
+    right: 10px;
+
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no">
+    <title>个人中心</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css_iconfont/iconfont.css">
+
+    <link rel="stylesheet" href="css_mine/main-layout.css">
+    <link rel="stylesheet" href="css_mine/center.css">
+    <link rel="stylesheet" href="css_mine/footer.css">
+
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <script>
+
+        window.onload = function() {
+            $( "#iframe-footer" ).contents().find( "#mine" ).css( "color", "yellow" );
+            $("#iframe-footer").contents().find("#order").click(function () {
+
+                window.location.href = $(this).attr('href');
+            });
+
+            $("#iframe-footer").contents().find("#mine").click(function () {
+
+                window.location.href = $(this).attr('href');
+            });
+
+            $("#iframe-footer").contents().find("#rank").click(function () {
+
+                window.location.href = $(this).attr('href');
+            });
+        };
+
+        /*window.onload = function() {
+            $("#iframe-footer").contents().find("#order").click(function () {
+                alert("df");
+                window.location.href = 'Order.html';
+            })
+        }*/
+
+    </script>
+
+</head>
+<body>
+<div class="main-layout col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+    <div class="head">
+        <div class="avatar">
+            <img src="images/duck.png" alt="我的头像"></img>
+            <span>牌号：</span>
+            <a href="#" class="sign-in iconfont">&#xe65f;签到</a>
+        </div>
+    </div>
+
+
+    <div class="body-func">
+        <div class="list-group ">
+            <a href="#" class="list-group-item iconfont">
+                &#xe65f; 今日工作报
+            </a>
+            <a href="#" class="list-group-item iconfont">&#xe687; 工作报表</a>
+            <a href="#" class="list-group-item iconfont">&#xe61c; 我的信息</a>
+            <a href="#" class="list-group-item iconfont">&#xe622; 系统信息</a>
+            <a href="#" class="list-group-item iconfont">&#xe662; 公司规定</a>
+
+        </div>
+
+    </div>
+
+    <!--<div class="footer iframe-footer">-->
+        <!--<a href="#" id="rank" class="footer-item"><i class="iconfont ">&#xe617;</i>排名</a>-->
+        <!--<a href="#" id="order" class="footer-item"><i class="iconfont">&#xe61b;</i>订单</a>-->
+        <!--<a href="#" id="mine" class="footer-item"><i class="iconfont">&#xe501;</i>我的</a>-->
+    <!--</div>-->
+
+    <!--&lt;!&ndash;<object class="footer" style="border:0px" type="text/x-scriptlet" data="Footer.html" ></object>&ndash;&gt;-->
+    <iframe id="iframe-footer" class="iframe-footer" src="Footer.html" frameborder="0">
+
+    </iframe>
+
+</div>
+
+</body>
+</html>

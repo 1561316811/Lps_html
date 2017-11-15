@@ -1,0 +1,44 @@
+
+caption{
+    text-align:center!important;
+}
+
+.msg-table{
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 13%;
+    overflow: auto;
+}
+
+
+
+.msg-table .t-font-size{
+    font-size: 8em ;
+}
+
+.header{
+    font-size: 8em ;
+}
+
+.header > h2{
+    font-family: 华文行楷;
+    font-size: 1em;
+    margin: 0;
+    padding: 10px 0px;
+    color: white;
+    background: #67ae19;
+    text-align: center;
+}
+
+.msg-table .t-font-size caption{
+    font-family: 华文行楷;
+    font-size: 1em;
+    font-style: normal;
+    background: #67ae19;
+    color: white;
+}
+
+table tr{
+    font-size: 1.1em;
+}

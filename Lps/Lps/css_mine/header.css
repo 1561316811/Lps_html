@@ -1,0 +1,19 @@
+
+
+.header > h2{
+    font-family: 华文行楷;
+    font-size: 0.75em;
+    margin: 0;
+    padding: 10px 0px;
+    color: white;
+    background: #67ae19;
+}
+
+.header > h2 > a{
+    border-right: solid 1px white;
+    font-size: 1em;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: white;
+    margin-right: 10px;
+}
